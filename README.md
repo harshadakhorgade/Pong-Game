@@ -40,7 +40,7 @@ A fun and classic **Pong Game** built using Python and the `turtle` module. Chal
 ---
 
 ## Preview 📸  
-*(Add a screenshot or GIF of the game here.)*  
+![Pong Game Screenshot](pong-game-screenshot.png) 
 
 ---
 
